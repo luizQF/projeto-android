@@ -16,18 +16,19 @@
 body{
     background-color:#DCC69B;
     width: 100%;
+    min-width: 300px;
 }
 header{
     background-image: linear-gradient(to bottom,#229222, #016a01, #025e02, #012d01);
     color:white;
     text-align: center;
-    padding-bottom: 15px;
+    padding-bottom: 2vw;
     width: 100%;
 }
     header > h1{
         font-family: 'bebas';
-        padding-bottom: 20px;
-        padding-top: 30px;
+        padding-bottom: 2vw;
+        padding-top: 2vw;
         font-size: 2.5em;
         text-shadow: 1px 1px 1px black;
     }
@@ -35,13 +36,13 @@ header{
         font-size: 0.90em;
         font-family: Arial, Helvetica, sans-serif;
         text-shadow: 1px 1px 1px black;
-        padding-bottom: 15px;
+        padding-bottom: 2vw;
     }
 
 nav{
 color:white;
 text-decoration: none;
-padding: 10px;
+padding: 1vw 2vw;
 background-color: #012d01;
 box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.497);
 }
