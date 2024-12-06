@@ -22,7 +22,7 @@ header{
     text-align: center;
     padding: 30px;
     padding-bottom: 15px;
-    position: fixed;
+    position: ;
 }
     header > h1{
         font-family: 'bebas';
@@ -44,6 +44,7 @@ text-decoration: none;
 padding: 10px;
 background-color: #012d01;
 box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.497);
+position: ;
 }
 
 
